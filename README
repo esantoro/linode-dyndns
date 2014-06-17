@@ -1,0 +1,5 @@
+A simple client for Linode's DNS. 
+Acts as dynamic-dns client.
+
+Written by Emanuele Santoro <manu@santoro.tk> in June 2014
+License is GPLv3
