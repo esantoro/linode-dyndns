@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'linode'
 require 'parseconfig'
 require 'httparty'
