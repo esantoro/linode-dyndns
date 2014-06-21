@@ -67,4 +67,7 @@ subdomains.each do |domain|
     puts "current ip: #{current_ip}"
   end
 
+  # def update(domain, subdomain, new_target)
+  response = client.update(domain, subdomain, current_ip)
+
 end
